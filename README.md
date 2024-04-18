@@ -6,7 +6,7 @@ Jednotlivé kapitoly a soubory:
 
 - ### Opakování (algoritmy, řídící struktury, datové typy,  pole)
 
-    [/src/Opakovani1.java](./src/Opakovani1.java)
+        [/src/Opakovani1.java](./src/Opakovani1.java)
 
     [/src/Opakovani2.jav](./src/Opakovani2.java)
 
