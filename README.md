@@ -4,7 +4,7 @@ toto jsou studijní materiály k předmětu VAP2.
 
 Jednotlivé kapitoly a soubory:
 
-- ###Opakování (algoritmy, řídící struktury, datové typy,  pole)
+- ### Opakování (algoritmy, řídící struktury, datové typy,  pole)
 
     /src/Opakovani1.java
 
@@ -14,15 +14,15 @@ Jednotlivé kapitoly a soubory:
 
     /src/Opakovani4.java
 
-- ###Řetězce (vytvoření, vlastnosti, metody pro práci s řetězci)
+- ### Řetězce (vytvoření, vlastnosti, metody pro práci s řetězci)
 
     /src/Retezce.java
 
-- ###Programová dokumentace (druhy komentářů, technická dokumentace, uživatelská dokumentace)
+- ### Programová dokumentace (druhy komentářů, technická dokumentace, uživatelská dokumentace)
 
     /src/ProgramovaDokumentace.java
 
-- ###Třídy (jejich definice, modifikátory přístupu, konstruktory)
+- ### Třídy (jejich definice, modifikátory přístupu, konstruktory)
 
     /src/Tridy.java
 
@@ -37,7 +37,7 @@ Jednotlivé kapitoly a soubory:
 - Vztahy mezi objekty
    (Zapouzdření, Dědičnost, Polymorfizmus, Abstraktní třídy, Rozhraní)
 
-    /src/AbstraktniTridy.java
+    [/src/AbstraktniTridy.java](./src/AbstraktniTridy.java)
 
     /src/GeometrickyUtvar.java
 
@@ -53,6 +53,6 @@ Jednotlivé kapitoly a soubory:
 
     /src/Tiskarna.java
 
-- ###Druhy chyb a způsoby jejich nalezení (debugger, breakpointy)
-- ###Ošetření uživatelského vstupu (Důvod zavedení výjimek, Druhy výjimek, odchycení a ošetření výjimek)
+- ### Druhy chyb a způsoby jejich nalezení (debugger, breakpointy)
+- ### Ošetření uživatelského vstupu (Důvod zavedení výjimek, Druhy výjimek, odchycení a ošetření výjimek)
 
